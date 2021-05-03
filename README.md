@@ -1,3 +1,7 @@
+Space Invaders
+
+Semaine n°2 : du 26 au 30 avril :
+
 Story 1 finie : Créer un espace de jeu
 Les critères d'acceptance de la story :
 - Créer un espace de jeu vide en 2D
