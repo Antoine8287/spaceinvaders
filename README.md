@@ -18,3 +18,6 @@ Diagramme de classe :
 
 
 ![diagramme_classe_semaine_2](https://user-images.githubusercontent.com/81249827/116934253-00cc5e80-ac65-11eb-9a8a-8c03ab4ca6ad.png)
+
+Nuage de mots:
+
