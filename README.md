@@ -15,4 +15,6 @@ Les critères d'acceptance de la story :
 - Le vaisseau est un seul point
 
 Diagramme de classe : 
-![diagramme_classe_semaine_2](https://user-images.githubusercontent.com/81249827/116934194-ee522500-ac64-11eb-9f15-38d176ed0dec.GIF)
+
+
+![diagramme_classe_semaine_2](https://user-images.githubusercontent.com/81249827/116934253-00cc5e80-ac65-11eb-9a8a-8c03ab4ca6ad.png)
