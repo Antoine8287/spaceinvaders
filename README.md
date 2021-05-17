@@ -58,6 +58,7 @@ Diagramme de classe :
 
 Nuage de mots :
 
+![image](https://user-images.githubusercontent.com/81249827/118469117-b5568d80-b705-11eb-94e5-bf90f095397d.png)
 
 
 Difficultés rencontrés : 
