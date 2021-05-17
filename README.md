@@ -55,6 +55,7 @@ Etape 1  en cours : Positionner un nouveau vaisseau avec une dimension donnée
 
 Diagramme de classe :
 
+![image](https://user-images.githubusercontent.com/81249827/118499027-dbd8f080-b726-11eb-8079-622eb111d2df.png)
 
 Nuage de mots :
 
