@@ -57,6 +57,6 @@ Difficultés rencontrés :
 aucune
 
 Glossaire:
-Vaisseau -> véhicule pouvant se déplacer à gauche et à droite
-Missile -> projectiles utilisés pour détruire les vaisseaux envahisseurs
-Envahisseurs -> ennemis
+- Vaisseau -> véhicule pouvant se déplacer à gauche et à droite
+- Missile -> projectiles utilisés pour détruire les vaisseaux envahisseurs
+- Envahisseurs -> ennemis
