@@ -53,6 +53,13 @@ Etape 1  en cours : Positionner un nouveau vaisseau avec une dimension donnée
 - Donner une dimension au vaisseau
 - Le positionner au centre en bas de l'espace de jeu
 
+Diagramme de classe :
+
+
+Nuage de mots :
+
+
+
 Difficultés rencontrés : 
 aucune
 
