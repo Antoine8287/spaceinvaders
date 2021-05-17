@@ -22,6 +22,40 @@ Diagramme de classe :
 Nuage de mots:
 
 
+Semaine du 10 au 14 avril :
+
+Fonctionnalité 1 finie : Déplacer un vaisseau dans l'espace de Jeu
+Story 1 finie : Créer un espace de jeu
+Les critères d'acceptance de la story :
+- Créer un espace de jeu vide en 2D
+
+Story 2 finie :  Un nouveau vaisseau est créé
+Les critères d'acceptance de la story :
+- Le vaisseau est positionné aux coordonnées transmises
+- Positionner un nouveau vaisseau dans l'espace de jeu
+- La position souhaitée est transmise par ses coordonnées x et y
+- Le point en haut à droite est (0,0)
+- Le vaisseau est un seul point
+
+Story 3 finie : Déplacer le vaisseau vers la droite dans l'espace de jeu
+Les critères d'acceptance de la story :
+- Le vaisseau se déplace d'un pas vers la droite
+- Si le vaisseau se trouve sur la bordure droite de l'espace de jeu, le vaisseau doit rester immobile
+
+Story 4 finie : Déplacer le vaisseau vers la gauche dans l'espace de jeu
+Les critères d'acceptance de la story :
+- Le vaisseau se déplace d'un pas vers la gauche
+- Si le vaisseau se trouve sur la bordure gauche de l'espace de jeu, le vaisseau doit rester immobile
+
+Fonctionnalité 2 en cours : Dimensionner le vaiseau
+
+Etape 1  en cours : Positionner un nouveau vaisseau avec une dimension donnée
+- Donner une dimension au vaisseau
+- Le positionner au centre en bas de l'espace de jeu
+
+Difficultés rencontrés : 
+aucune
+
 Glossaire:
 Vaisseau -> véhicule pouvant se déplacer à gauche et à droite
 Missile -> projectiles utilisés pour détruire les vaisseaux envahisseurs
