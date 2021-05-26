@@ -96,6 +96,25 @@ aucune
 
 Semaine du 25 au 28 mai :
 
+Fonctionnalité 1 finie : Déplacer un vaisseau dans l'espace de Jeu
+
+Fonctionnalité 2 finie : Dimensionner le vaisseau
+
+Etape 1  finie : Positionner un nouveau vaisseau avec une dimension donnée
+- Donner une dimension au vaisseau
+- Le positionner au centre en bas de l'espace de jeu
+
+Etape n°2 finie : Faire en sorte qu'il soit impossible de positionner un nouveau vaisseau qui déborde de l'espace de jeu
+- Positionner le vaisseau uniquement dans l'espace de jeu
+
+Etape n°3 finie : Déplacer un vaisseau vers la droite en tenant compte de sa dimension
+- Gérer les limites de l'espace de jeu
+
+Etape n°4 finie : Déplacer un vaisseau vers la gauche en tenant compte de sa dimension
+- Gérer les limites de l'espace de jeu
+
+Fonctionnalité n°3 en cours : Choisir la vitesse du vaisseau
+
 
 Glossaire:
 - Vaisseau -> véhicule pouvant se déplacer à gauche et à droite
