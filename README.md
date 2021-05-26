@@ -22,7 +22,7 @@ Diagramme de classe :
 Nuage de mots:
 
 
-Semaine du 10 au 14 avril :
+Semaine du 10 au 14 mai :
 
 Fonctionnalité 1 finie : Déplacer un vaisseau dans l'espace de Jeu
 Story 1 finie : Créer un espace de jeu
@@ -66,7 +66,7 @@ Difficultés rencontrés :
 aucune
 
 
-Semaine du 17 au 21 avril :
+Semaine du 17 au 21 mai :
 
 Fonctionnalité 1 finie : Déplacer un vaisseau dans l'espace de Jeu
 
@@ -93,6 +93,8 @@ Nuage de mots :
 
 Difficultés rencontrés : 
 aucune
+
+Semaine du 25 au 28 mai :
 
 
 Glossaire:
